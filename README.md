@@ -81,7 +81,25 @@ Outputs:
     Value: !Ref PrimaryAdminKey
 ```
 
+# Screenshots
+
+EC2 Created
+<img width="691" height="298" alt="image" src="https://github.com/user-attachments/assets/2e612f71-9c86-488e-a263-e766e8c1319e" />
+
+VOLUME Created
+
+<img width="691" height="296" alt="image" src="https://github.com/user-attachments/assets/fc8dffa5-4a93-4a49-ab58-3cf8066994e3" />
+
+volume Attached to the VM
+
+<img width="691" height="295" alt="image" src="https://github.com/user-attachments/assets/8f759c2a-cf1b-4297-ab13-14f40305e8cc" />
+
    
-   
+KEYPAIR CREATED   
+
+<img width="691" height="178" alt="image" src="https://github.com/user-attachments/assets/dc91bf2f-96fa-4706-ab94-3256529d25ce" />
+
+
+
 
 
